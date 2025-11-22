@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Astro Starter Kit: Minimal
 
 ```sh
@@ -41,3 +42,7 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+=======
+# FirstAstro
+El primer proyecto Frontend de un Sysadmin y ML Engineer con 7 años de experiencia
+>>>>>>> 94ee749b8c0325708e5d1c1f4ddbff6d8c4acb95
